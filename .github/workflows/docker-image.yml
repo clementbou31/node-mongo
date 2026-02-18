@@ -9,7 +9,7 @@ on:
 
 
 env:
-  IMAGE_NAME: patrah2/node-mongo
+  IMAGE_NAME: clementbo31/node-mongo
 
 
 jobs:
